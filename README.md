@@ -1,6 +1,6 @@
 # Study Guide and Practice Exam for the GitHub Foundations Exam
 
-Preparing for the GitHub Foundations exam requires a strategic approach to ensure you cover all the necessary topics and gain the practical experience needed to pass. Here are some tips based on the provided sources:
+Preparing for the GitHub Foundations exam requires a strategic approach to ensure you cover all the necessary topics and gain the practical experience needed to pass. Here are some tips:
 
 ### Understand the Exam Domains
 
